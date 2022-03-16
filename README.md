@@ -3,7 +3,7 @@
 
 - 🌱Atualmente estou aprendendo **Python, SQL e Power BI**
 
-- Me pergunte sobre **SQL, Python, Power BI,SSMS, GIT e Excel**
+- Me pergunte sobre **SQL, Python, Power BI, SSMS, GIT e Excel**
 
 - 📫 Você me acha **Valthergodinho68@hotmail.com**
 
