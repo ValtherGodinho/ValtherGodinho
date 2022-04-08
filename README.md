@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, Eu sou o Valther</h1>
 <h3 align="center">Apaixonado por ciência e analise de dados no Mundo Digital</h3>
 
-- 🌱Atualmente estou aprendendo **Python, SQL e Power BI**
+- 🌱Atualmente estou aprendendo **Machine Learning, ETL e Power BI**
 
-- Me pergunte sobre **SQL, Python, Power BI, SSMS, GIT e Excel**
+- Me pergunte sobre **MySQL, T-SQL, Python, Power BI, SSMS, GIT e Excel**
 
 - 📫 Você me acha **Valthergodinho68@hotmail.com**
 
