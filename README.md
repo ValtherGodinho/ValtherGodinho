@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou o Valther Godinho</h1>
-<h3 align="center">Apaixonado por analise de dados no Mundo Digital</h3>
+<h3 align="center">Apaixonado por desenvolvimento de sistemas no Mundo Digital</h3>
 
 - 🌱Atualmente estou aprendendo **  Java | JavaScript | TypeScript **
 
