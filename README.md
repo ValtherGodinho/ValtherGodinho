@@ -1,11 +1,11 @@
 <h1 align="center">Olá 👋, Eu sou o Valther</h1>
 <h3 align="center">Apaixonado por analise de dados no Mundo Digital</h3>
 
-- 🌱Atualmente estou aprendendo **Machine Learning, ETL e Power BI**
+- 🌱Atualmente estou aprendendo **  Java | JavaScript | TypeScript **
 
-- Me pergunte sobre **MySQL, T-SQL, Python, Power BI, SSMS, GIT e Excel**
+- Me pergunte sobre ** HTML5 | CSS3 |Angular8 **
 
-- 📫 Você me acha **Valthergodinho68@hotmail.com**
+- 📫 Você me acha ** www.valthergodinho.tech**
 
 - 📄 Minhas experiências [https://www.linkedin.com/in/valthergodinho/](https://www.linkedin.com/in/valthergodinho/)
 
