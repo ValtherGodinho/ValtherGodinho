@@ -5,7 +5,7 @@
 
 - Me pergunte sobre ** HTML5 | CSS3 |Angular8 **
 
-- 📫 Você me acha ** www.valthergodinho.tech**
+- 📫 Você me acha ** www.valthergodinho.tech **
 
 - 📄 Minhas experiências [https://www.linkedin.com/in/valthergodinho/](https://www.linkedin.com/in/valthergodinho/)
 
