@@ -6,7 +6,6 @@
 
 - 📫 Você me acha **[https://www.linkedin.com/in/valthergodinho/](https://www.linkedin.com/in/valthergodinho/) **
 
-- 📄 Minhas experiências [https://www.linkedin.com/in/valthergodinho/](https://www.linkedin.com/in/valthergodinho/)
 
 
  <a href="https://github.com/ValtherGodinho">
