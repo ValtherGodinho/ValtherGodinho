@@ -1,9 +1,8 @@
 <h1 align="center">Olá 👋, Eu sou o Valther Godinho</h1>
-<h3 align="center">Apaixonado por desenvolvimento de sistemas no Mundo Digital</h3>
+<h3 align="center">Apaixonado por transformar dados em soluções tangíveis</h3>
 
-- 🌱Atualmente estou aprendendo **  Java | JavaScript | TypeScript **
+- 🌱 Analista de Dados | Analista de Business Intelligence (BI) | Power BI | SQL | Python
 
-- Me pergunte sobre ** HTML5 | CSS3 |Angular8 **
 
 - 📫 Você me acha ** www.valthergodinho.tech **
 
