@@ -4,7 +4,7 @@
 - 🌱 Analista de Dados | Analista de Business Intelligence (BI) | Power BI | SQL | Python
 
 
-- 📫 Você me acha ** www.valthergodinho.tech **
+- 📫 Você me acha **[https://www.linkedin.com/in/valthergodinho/](https://www.linkedin.com/in/valthergodinho/) **
 
 - 📄 Minhas experiências [https://www.linkedin.com/in/valthergodinho/](https://www.linkedin.com/in/valthergodinho/)
 
